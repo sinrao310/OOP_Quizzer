@@ -22,6 +22,3 @@ It is necessary to download the test.csv and scoreboard.txt file since the quest
 
 https://user-images.githubusercontent.com/68455630/121939207-62a2dc80-cd6a-11eb-94a3-9773203e5712.mp4
 
-# Demonstration
-
-![OOP_QUIZZER](https://user-images.githubusercontent.com/68455630/121940644-f6c17380-cd6b-11eb-9cc9-fa729ebce929.gif)
