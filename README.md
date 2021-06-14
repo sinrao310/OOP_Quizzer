@@ -7,3 +7,11 @@ Each question in the quiz is of multiple-choice format. Read each question caref
 There is a time limit assigned for the quiz, in such a way that to you get 30 seconds for each question. If you exceed the time limit,it will automatically change to next question.
 
 The total score for the quiz is based on your responses to all questions.
+
+
+# How to run?
+
+Download all the files in the same folder and run the .exe file.
+
+It is necessary to download the test.csv and scoreboard.txt file since the questions for the quiz program are obtained from the .csv file and the scoreboard is updated in the .txt file.
+
