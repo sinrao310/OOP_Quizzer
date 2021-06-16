@@ -8,7 +8,10 @@ Each question in the quiz is of multiple-choice format. Read each question caref
 
 There is a time limit assigned for the quiz, in such a way that to you get 30 seconds for each question. If you exceed the time limit,it will automatically change to next question.
 
-The total score for the quiz is based on your responses to all questions.
+Each correct answer gives 1 point. No points are deducted for wrong answers.The total score for the quiz is based on your responses to all questions.
+After each successful termination of the program, the name, register number and final score of the test taker is stored in the .txt file which can be accessed as the score board.
+
+
 
 
 # How to run?
