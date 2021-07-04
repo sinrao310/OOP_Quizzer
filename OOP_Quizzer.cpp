@@ -275,7 +275,7 @@ public:
 
 //updating leaderboard
   void updateleaderboard(int m){
-    ofstream update ("scoreboard.txt",ofstream::app);
+    ofstream update ("scoreboard.txt",ios::app);
     if (update.is_open())
     {
       update <<Name <<"\t\t "<<Num<<"\t\t "<<m;
